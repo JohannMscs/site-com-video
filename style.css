@@ -1,0 +1,14 @@
+body{
+    background-color: #1b2222;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+}
+div{
+    background-color: #ffffff;
+    width: 410px;
+}
