@@ -5,10 +5,27 @@ body{
 
 }
 h1{
-    text-align: center;
-    color: #ffffff;
+ text-align: center;
+ color: #ffffff;
 }
-div{
-    background-color: #ffffff;
+.externa {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.videos{
     width: 410px;
+}
+.midia{
+   align-items: center;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin-top: 20px;
+}
+img{
+
 }
